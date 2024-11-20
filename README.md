@@ -23,3 +23,7 @@ This repository contains a clone of the popular MX Player app, built using Flutt
   <img height="400"  src="https://github.com/user-attachments/assets/5dc7cb54-3a3a-4fbe-8f0f-e4ee5428ca5d"/>
 
 </div>
+
+
+https://github.com/user-attachments/assets/dc663140-7b9b-418e-b8c0-a12b70e28006
+
