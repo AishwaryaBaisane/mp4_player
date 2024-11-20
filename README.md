@@ -1,16 +1,25 @@
 # mp4_player
 
-A new Flutter project.
+## Introduction
+This repository contains a clone of the popular MX Player app, built using Flutter. The app aims to replicate the core features and user interface of MX Player, providing a seamless and high-quality media player experience.
 
-## Getting Started
+## key Features
 
-This project is a starting point for a Flutter application.
+* Splash Screen: A sleek splash screen with a 3-second delay, featuring the MX Player logo.
+* Video Playback: Supports playing various video formats with smooth playback controls.
+* Audio Player: Integrated audio player for playing music files.
+* File Management: Browse and manage media files stored on your device.
+* User Interface: Clean and intuitive UI similar to MX Player, with easy navigation.
+  
+### 
+<h3 align="center"><i>Images</i></h3>
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <img height="400"  src="https://github.com/user-attachments/assets/1202ab23-d1f4-4b44-a8a3-6469db46ed9c"/>
+  <img height="400"  src="https://github.com/user-attachments/assets/95f9743b-820e-4437-9f51-00c5a6c8e99d"/>
+  <img height="400"  src="https://github.com/user-attachments/assets/23b76f0a-4101-4ce9-b061-9b8be12091d2"/>
+  <img height="400"  src="https://github.com/user-attachments/assets/4cc0ce5b-81dd-46f4-a568-e4e511914c58"/>
+  <img height="400"  src="https://github.com/user-attachments/assets/b1970f29-f419-45d4-961a-c9553eacfaa6"/>
+  <img height="400"  src="https://github.com/user-attachments/assets/5dc7cb54-3a3a-4fbe-8f0f-e4ee5428ca5d"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</div>
